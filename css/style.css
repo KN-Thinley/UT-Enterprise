@@ -16,7 +16,7 @@ h6 {
 }
 .unstyle ul li,
 .unstyle ol li,
-ul.unstyle li, 
+ul.unstyle li,
 ol.unstyle li {
   list-style: none;
   line-height: inherit;
@@ -802,15 +802,15 @@ legend {
   border: 1px solid #333;
 }
 .footer ul.social-iconsfooter li a {
-  color: #fff;
+  color: black;
   width: 60px;
   height: 60px;
   line-height: 60px;
   display: inline-block;
 }
 .footer {
-  background: #222;
-  color: #999;
+  background: #00bba7;
+  color: white;
   font-size: 14px;
   padding: 60px 0 40px 0;
   margin-top: 0px;
@@ -824,7 +824,8 @@ ol {
   padding-left: 0px;
 }
 .footernote {
-  font-size: 30px;
+  font-size: 40px;
+  font-weight: 500;
   color: #fff;
 }
 .footer a {
