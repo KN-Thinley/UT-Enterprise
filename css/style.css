@@ -1,7 +1,3 @@
-/*
-Scorilo 1.0.1 - HTML Template by WowThemes.net
-Visit: https://www.wowthemes.net
-================================================== */
 body {
   font-family: Roboto;
   font-weight: 300;
@@ -20,7 +16,7 @@ h6 {
 }
 .unstyle ul li,
 .unstyle ol li,
-ul.unstyle li,
+ul.unstyle li, 
 ol.unstyle li {
   list-style: none;
   line-height: inherit;
@@ -263,7 +259,7 @@ h1.latestitems {
 .wow-hr-h:before {
   left: -13px;
   margin-left: -50%;
-  background: #f7f7f7;
+  background: #00bba7;
 }
 .wow-hr-h:after {
   left: 13px;
@@ -278,7 +274,7 @@ h1.latestitems {
   margin-top: 9px;
   vertical-align: top;
   position: relative;
-  background-color: #e4e4e4;
+  background-color: #00bba7;
 }
 .wow-hr-h i {
   font-size: 16px;
@@ -287,7 +283,7 @@ h1.latestitems {
   width: 20px;
   vertical-align: top;
   text-align: center;
-  color: #e4e4e4;
+  color: #00bba7;
 }
 .paddingtop0 {
   padding-top: 0 !important;
@@ -341,6 +337,7 @@ a.homebrowseitems:hover {
   margin-bottom: -13px;
   margin-right: -9px;
   margin-left: 1px;
+  height: 0;
 }
 a.ordernowitems:hover {
   color: #fff;
@@ -384,7 +381,7 @@ img {
   font-size: 17px;
   text-transform: uppercase;
   margin-top: 15px;
-  border-bottom: double medium #eee;
+  border-bottom: double medium #00bba7;
   padding-bottom: 15px;
   margin-bottom: 10px;
   font-weight: 500;
@@ -449,13 +446,13 @@ img {
 }
 
 span .fa-star {
-  color: rgb(147, 147, 135);
+  color: #33ab9e;
 }
 .fa-star {
   color: rgb(147, 147, 135);
 }
 .background {
-  background-color: #f2f5ff;
+  background-color: #75e5d852;
 }
 .bg-text {
   font-size: 20px;
